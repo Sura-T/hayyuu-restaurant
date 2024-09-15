@@ -12,9 +12,9 @@ User-Friendly Interface: Intuitive navigation for a pleasant user experience.
 
 ## Technologies Used
 
-React.js: For building the user interface.
-CSS/SCSS: For styling the components.
-React Router: For handling routing within the application.
+React.js: For building the user interface. <br />
+CSS/SCSS: For styling the components. <br />
+React Router: For handling routing within the application. <br />
 
 
 
