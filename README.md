@@ -38,6 +38,6 @@ React Router: For handling routing within the application. <br />
 
 Open your browser and go to http://localhost:3000
 
-##ACKNOWLEDGEMENT
+## ACKNOWLEDGEMENT
 For JavaScript Mastery and designers
 
